@@ -9,3 +9,7 @@ mainSections = ["movies", "blog"]
 
 [[widgets.homepage]]
 type = "search"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
