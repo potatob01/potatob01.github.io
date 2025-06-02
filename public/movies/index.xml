@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Joshua Kim</title>
+    <link>http://localhost:1313/movies/</link>
+    <description>Recent content in Movies on Joshua Kim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:38:39 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Like Father, Like Son (2013)</title>
+      <link>http://localhost:1313/movies/like-father-like-son/</link>
+      <pubDate>Sun, 01 Jun 2025 00:38:39 -0700</pubDate>
+      <guid>http://localhost:1313/movies/like-father-like-son/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu augue volutpat, viverra diam et, facilisis lacus. Aliquam et felis pulvinar, tempus libero sit amet, volutpat mi. Pellentesque non neque sed eros faucibus lacinia sit amet vitae ex. Sed pharetra feugiat nibh sed venenatis. Mauris nec odio quis mauris commodo hendrerit. Nulla feugiat augue sed massa mattis pharetra. Sed vitae nunc ut urna rhoncus commodo. Curabitur pellentesque feugiat leo ut molestie. Morbi elit mauris, cursus nec dolor eget, malesuada hendrerit velit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

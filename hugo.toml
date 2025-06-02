@@ -1,0 +1,11 @@
+baseURL = 'https://joshuak.im/'
+languageCode = 'en-us'
+title = 'Joshua Kim'
+
+theme = 'stack'
+
+[params]
+mainSections = ["movies", "blog"]
+
+[[widgets.homepage]]
+type = "search"

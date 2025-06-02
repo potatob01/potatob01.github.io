@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Kim</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Joshua Kim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 20:53:17 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magdalene Ho and Competition in Music</title>
+      <link>http://localhost:1313/blog/magdalene-ho/</link>
+      <pubDate>Sun, 01 Jun 2025 20:53:17 -0700</pubDate>
+      <guid>http://localhost:1313/blog/magdalene-ho/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu augue volutpat, viverra diam et, facilisis lacus. Aliquam et felis pulvinar, tempus libero sit amet, volutpat mi. Pellentesque non neque sed eros faucibus lacinia sit amet vitae ex. Sed pharetra feugiat nibh sed venenatis. Mauris nec odio quis mauris commodo hendrerit. Nulla feugiat augue sed massa mattis pharetra. Sed vitae nunc ut urna rhoncus commodo. Curabitur pellentesque feugiat leo ut molestie. Morbi elit mauris, cursus nec dolor eget, malesuada hendrerit velit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Like Father, Like Son (2013)</title>
+      <link>http://localhost:1313/movies/like-father-like-son/</link>
+      <pubDate>Sun, 01 Jun 2025 00:38:39 -0700</pubDate>
+      <guid>http://localhost:1313/movies/like-father-like-son/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu augue volutpat, viverra diam et, facilisis lacus. Aliquam et felis pulvinar, tempus libero sit amet, volutpat mi. Pellentesque non neque sed eros faucibus lacinia sit amet vitae ex. Sed pharetra feugiat nibh sed venenatis. Mauris nec odio quis mauris commodo hendrerit. Nulla feugiat augue sed massa mattis pharetra. Sed vitae nunc ut urna rhoncus commodo. Curabitur pellentesque feugiat leo ut molestie. Morbi elit mauris, cursus nec dolor eget, malesuada hendrerit velit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hey! I&amp;rsquo;m Joshua, a junior at Troy High School. As of recent, I&amp;rsquo;ve been finding myself in cybersecurity, math, music, and my school&amp;rsquo;s NJROTC unit. Here&amp;rsquo;s a quick breakdown:&lt;/p&gt;&#xA;&lt;h1 id=&#34;cybersecurity&#34;&gt;Cybersecurity&lt;/h1&gt;&#xA;&lt;p&gt;While I&amp;rsquo;ve always found myself around computers since I was young, it wasn&amp;rsquo;t until I entered 8th grade that I was introduced to the topic through &lt;a href=&#34;https://www.uscyberpatriot.org&#34;&gt;CyberPatriot&lt;/a&gt;, a nationwide competition for middle and high schoolers run by the Air &amp;amp; Space Forces Administration. I&amp;rsquo;m the team captain of Runtime Terror, a CyberPatriot team that&amp;rsquo;s gone to the national finals round (the top 12 out of a couple thousand teams!) every year since our inception in 2021. I&amp;rsquo;ve personally been to the national finals twice so far, which take the format of an RvB with some amusing topologies. Each nationals I&amp;rsquo;ve been to have been incredibly eye-opening, stress-inducing, and thrilling experiences that keep my love for cybersecurity going strong.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
