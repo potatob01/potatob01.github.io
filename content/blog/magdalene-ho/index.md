@@ -1,6 +1,6 @@
 +++
 date = '2025-06-01T20:53:17-07:00'
-draft = false
+draft = true
 title = 'Magdalene Ho and Competition in Music'
 
 image = "cover.jpg"

@@ -39,3 +39,4 @@ Here are just a couple things I like to do in my free time (a constantly updatin
 - Play puzzle games with my friends (OK & KL, my goats)
 - Go for a drive
 - Work on felicity (my Linux script), my one and only true love
+- Work out at the gym
