@@ -7,3 +7,4 @@ directors = ['Kore-eda']
 image = "cover.jpg"
 +++
 
+It's not often that a movie has as little of a plot as 
