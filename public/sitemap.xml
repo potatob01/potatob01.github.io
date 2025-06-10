@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://joshuak.im/</loc>
     <lastmod>2025-06-10T01:41:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/movies/</loc>
+    <loc>https://joshuak.im/movies/</loc>
     <lastmod>2025-06-10T01:41:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/movies/still-walking/</loc>
+    <loc>https://joshuak.im/movies/still-walking/</loc>
     <lastmod>2025-06-10T01:41:25-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://joshuak.im/blog/</loc>
     <lastmod>2025-06-01T20:53:17-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://joshuak.im/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://joshuak.im/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://joshuak.im/tags/</loc>
   </url>
 </urlset>

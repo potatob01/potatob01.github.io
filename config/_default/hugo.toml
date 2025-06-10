@@ -10,3 +10,7 @@ type = "search"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-HCZX138JLT'
