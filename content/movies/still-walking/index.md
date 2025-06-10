@@ -4,7 +4,7 @@ draft = false
 title = 'Still Walking (2008)'
 directors = ['Kore-eda']
 image = "cover.jpg"
-subtitle = "9/10 - A subtle but profound portrait of human nature."
+description = "9/10 - A subtle yet profound portrait of human nature."
 +++
 
 Stripped of plot twists and Hollywood-esque drama, simplicity drives the beauty of Still Walking.
