@@ -1,18 +1,38 @@
 +++
-date = '2025-06-03T21:28:11-07:00'
-draft = true
+date = '2025-06-10T01:41:25-07:00'
+draft = false
 title = 'Still Walking (2008)'
 directors = ['Kore-eda']
 image = "cover.jpg"
-subtitle = "8.5/10 - A modest but profound display of human nature."
+subtitle = "9/10 - A subtle but profound portrait of human nature."
 +++
 
-Stripped of plot twists and dramatic expectations set in Hollywood, simplicity drives the beauty of Still Walking.
+Stripped of plot twists and Hollywood-esque drama, simplicity drives the beauty of Still Walking.
 
-To commemorate the death of their brother Junpei, Ryota and Chinami visit their parents' home in Yokohama. Chinami is accompanied by her husband and two kids, while Ryota comes with his wife Yukari and her child Atsushi. Ryota recently married Yukari, whose previous husband passed away, to his parents Kyohei and Toshiko's dismay. Importantly, Atsushi is the child of Yukari's previous marriage, and not the child of Ryota and Yukari.
+Over the course of a little over 24 hours, Still Walking follows the Yokoyama family's memorial for their eldest son Junpei. The parents, Kyohei and Toshiko Yokoyama, host their two remaining children Ryota and Chinami at their house for the day. Junpei's death was particularly difficult for the parents, as he was the favorite of the three and was destined to continue the family clinic, the lifelong pride of his father Kyohei. While Kyohei had some hope left for Ryota, Ryota instead became an art restorer and is often between jobs, which the father is still conflicted over. To make matters worse, Ryota married Yukari, a widow with a son from her previous marriage, a marriage that both parents (especially his mother) still haven't accepted.
 
-As grief and regret bubble through the day, Koreeda begins to reveal the small but significant frustrations that each character has. Kyohei grieves for Junpei, who was destined to continue his family clinic and bring honor to the family. While he hoped Ryota would take his place, Ryota instead decided to work in art restoration and is between jobs. Toshiko wishes that Ryota had married a different woman, instead of a woman who's been in a previous relationship. And Yukari wishes throughout the whole day that the Yokoyama family would just treat Atsushi like family, not a guest.
+# Family
 
-But these tensions rarely come to light. The movie is filled with scenes where the family just acts like a family: eating together, asking for recipes, gossipping about other people. The only glimpses we get into what each person really thinks are in small, isolated scenes, like the small moments of silence or the interactions between a few, specific characters. Otherwise, when the family is together, each of the characters demonstrate restraint in an incredibly Japanese yet universal fashion. Ryota lies about having work to the family to make sure he doesn't disappoint his father. Yukari keeps an incredibly positive, outgoing, and helpful attitude in attempt to gain the family's favor.
+The parents aren't the only ones with gripes: there's tension between everyone in the family. Ryota's stepson refuses to call him "dad", struggling to understand how Ryota fits in his own family. Toshiko, with her signature passive-aggressiveness, wants Ryota to have a son of his own. And crucially, Yukari just wants the Yokoyama family to treat Atsushi as their own. 
 
-It's through these interactions that we can see Koreeda'
+But there's never confrontation in the family. Through their gripes, the family just acts like a family: eating together, asking for recipes, gossiping about other people. The only glimpses we get into what each person really thinks are in small, isolated scenes – scenes where the family isn't together. Otherwise, when the family is together, each of the characters demonstrate restraint in both a uniquely Japanese way and a universally understandable fashion. Ryota does his best to keep talking with his dad, and calms his worries by pretending he has a job. Toshiko keeps conversation with Yukari, who is extremely good-spirited and kind, with Toshiko even gifting her a kimono at the end.
+
+And that's really what makes family. The love is never perfect – expectations feel too high, and there's never a perfect understanding between everyone. But there's an everlasting link that brings them together.
+
+# Grief
+
+When Yoshio shows up – the fat, unemployed, and "loser"-like classmate that Junpei died saving – Toshiko feels incredible grief thinking that her son's life was lost for a man like him. In an incredibly powerful scene where Ryota asks why the family still invites him after fifteen years, Toshiko states, "Not having someone to hate makes it all the worse for me."
+
+Later on in the day, Toshiko asks Ryota about the name of a sumo wrestler that she can't seem to remember. He can't seem to remember either, which bugs her for the rest of the day. As Ryota leaves the town and the bus departs, he remembers the name, remarking, "It's always like that, I'm always a little late." That was the last day that Ryota saw his parents.
+
+And at the very end of the film, through a voiceover, Ryota tells us that he never got to watch a soccer game with his dad, or give his mom a ride in a car – something that his parents always wished to do.
+
+It's only human nature to miss opportunities: opportunities to forgive, opportunities to love. Written in thoughts of his own late mother, Kore-eda surely understands this well. And while there is a "life is fleeting" message to be said, it's really about grief. The inevitability of lingering grief in the cycle of life.
+
+# My thoughts!
+
+Kore-eda's orchestration of all these different scenes is nothing short of masterful. The characters seem so genuine and the scenes so real that you feel like you've just been plopped in the Yokoyama home for a day. It's really the small details (which there are SO many of) that give the film such a profound feeling, something that has always been Kore-eda's strong suit. Throughout the entire two hours of the film, it doesn't feel like a single second is wasted – every scene has weight and importance in the story. 
+
+There's also an incredibly attractive style that the movie has when the plot is driven by these small details rather than action or plot twists. It's helped by the actors, who really excel in their roles. Kirin Kiki, playing the role of Toshiko, creates a perfect persona for the calm yet snide person that Toshiko is. The child actor for Atsushi, Shohei Tanaka, is incredible in creating a nuanced, complicated character while still feeling just like a kid. 
+
+And yes, the film isn't perfect. The subtlety definitely isn't for everyone – Owen Gleiberman from Entertainment Weekly calls it "fetishistic" and "a tad frustrating", which is understandable considering the extremely different approach that Kore-eda loves to take. But the power behind Kore-eda's ability to convey emotion is not to be underestimated.

@@ -24,7 +24,7 @@ My passion for math is really driven by a deep love for logical thinking and pro
 
 # Music
 
-My family is deep into music. Everyone on my mom's side of the family are musicians, and my dad grew up listening and playing lots of music. So whether it's from the environment I grew up in or genetics, I've found that I also have a blooming interest in music. I personally play the piano, which has been a part of my life for the better part of the last five years. You might also be able to find covers that I've made of some songs floating *somewhere* on the internet.
+My family is deep into music. Everyone on my mom's side of the family are musicians, and my dad grew up listening and playing lots of music. So whether it's from the environment I grew up in or genetics, I've found that I also have a blooming interest in music. I personally play the piano, which has been a part of my life for the better part of the last five years. But I loooove singing in my free time as well.
 
 # NJROTC
 
@@ -37,6 +37,6 @@ That's a quick a rundown of my academics. But what makes me *me*?
 Here are just a couple things I like to do in my free time (a constantly updating list): 
 - Watching movies
 - Play puzzle games with my friends (OK & KL, my goats)
-- Go for a drive
+- Karaoke!
 - Work on felicity (my Linux script), my one and only true love
 - Work out at the gym
