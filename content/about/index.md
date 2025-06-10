@@ -24,7 +24,7 @@ My passion for math is really driven by a deep love for logical thinking and pro
 
 # Music
 
-My family is deep into music. Everyone on my mom's side of the family are musicians, and my dad grew up listening and playing lots of music. So whether it's from the environment I grew up in or genetics, I've found that I also have a blooming interest in music. I personally play the piano, which has been a part of my life for the better part of the last five years. You might also be able to find covers that I've made of some songs on YouTube (that link *might* be hidden somewhere on this website).
+My family is deep into music. Everyone on my mom's side of the family are musicians, and my dad grew up listening and playing lots of music. So whether it's from the environment I grew up in or genetics, I've found that I also have a blooming interest in music. I personally play the piano, which has been a part of my life for the better part of the last five years. You might also be able to find covers that I've made of some songs floating *somewhere* on the internet.
 
 # NJROTC
 
