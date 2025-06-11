@@ -2,17 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Joshua Kim</title>
-        <link>https://joshuak.im/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Joshua Kim</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 10 Jun 2025 01:41:25 -0700</lastBuildDate><atom:link href="https://joshuak.im/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Still Walking (2008)</title>
-        <link>https://joshuak.im/movies/still-walking/</link>
-        <pubDate>Tue, 10 Jun 2025 01:41:25 -0700</pubDate>
+        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Magdalene Ho and Competition in Music</title>
+        <link>http://localhost:1313/blog/magdalene-ho/</link>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 -0700</pubDate>
         
-        <guid>https://joshuak.im/movies/still-walking/</guid>
-        <description>&lt;img src="https://joshuak.im/movies/still-walking/cover.jpg" alt="Featured image of post Still Walking (2008)" /&gt;&lt;p&gt;Stripped of plot twists and Hollywood-esque drama, simplicity drives the beauty of Still Walking.&lt;/p&gt;
+        <guid>http://localhost:1313/blog/magdalene-ho/</guid>
+        <description>&lt;img src="http://localhost:1313/blog/magdalene-ho/cover.jpg" alt="Featured image of post Magdalene Ho and Competition in Music" /&gt;&lt;p&gt;If you&amp;rsquo;ve been following the Seventeenth Van Cliburn International Piano Competition, you&amp;rsquo;ve almost certainly heard the public outrage regarding Magdalene Ho&amp;rsquo;s elimination after the preliminary round. Being possibly the most liked player from the preliminary round, fans on every social media platform imaginable expressed their shock and disappointment after she was cut. Ben Laude from Tonebase even made a video sharing his &amp;ldquo;concern&amp;rdquo; on the matter, garnering tens of thousands of views in a few days. It&amp;rsquo;s not without reason. You can watch her performance &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=v9_mrVakYbM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;here&lt;/a&gt; and form your own opinions, but you can see why she stood out to the audience. Not only does she have clear musical ideas, but she&amp;rsquo;s able to express them with such persuasiveness through a plethora of different colors and tones.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Still Walking (2008)</title>
+        <link>http://localhost:1313/movies/still-walking/</link>
+        <pubDate>Mon, 09 Jun 2025 00:00:00 -0700</pubDate>
+        
+        <guid>http://localhost:1313/movies/still-walking/</guid>
+        <description>&lt;img src="http://localhost:1313/movies/still-walking/cover.jpg" alt="Featured image of post Still Walking (2008)" /&gt;&lt;p&gt;Stripped of plot twists and Hollywood-esque drama, simplicity drives the beauty of Still Walking.&lt;/p&gt;
 &lt;p&gt;Over the course of a little over 24 hours, Still Walking follows the Yokoyama family&amp;rsquo;s memorial for their eldest son Junpei. The parents, Kyohei and Toshiko Yokoyama, host their two remaining children Ryota and Chinami at their house for the day. Junpei&amp;rsquo;s death was particularly difficult for the parents, as he was the favorite of the three and was destined to continue the family clinic, the lifelong pride of his father Kyohei. While Kyohei had some hope left for Ryota, Ryota instead became an art restorer and is often between jobs, which the father is still conflicted over. To make matters worse, Ryota married Yukari, a widow with a son from her previous marriage, a marriage that both parents (especially his mother) still haven&amp;rsquo;t accepted.&lt;/p&gt;
 &lt;h1 id=&#34;family&#34;&gt;Family
 &lt;/h1&gt;&lt;p&gt;The parents aren&amp;rsquo;t the only ones with gripes: there&amp;rsquo;s tension between everyone in the family. Ryota&amp;rsquo;s stepson refuses to call him &amp;ldquo;dad&amp;rdquo;, struggling to understand how Ryota fits in his own family. Toshiko, with her signature passive-aggressiveness, wants Ryota to have a son of his own. And crucially, Yukari just wants the Yokoyama family to treat Atsushi as their own.&lt;/p&gt;
@@ -30,11 +40,22 @@
 </description>
         </item>
         <item>
+        <title>Like Father, Like Son (2013)</title>
+        <link>http://localhost:1313/movies/like-father-like-son/</link>
+        <pubDate>Sun, 01 Jun 2025 00:38:39 -0700</pubDate>
+        
+        <guid>http://localhost:1313/movies/like-father-like-son/</guid>
+        <description>&lt;img src="http://localhost:1313/movies/like-father-like-son/cover.jpg" alt="Featured image of post Like Father, Like Son (2013)" /&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu augue volutpat, viverra diam et, facilisis lacus. Aliquam et felis pulvinar, tempus libero sit amet, volutpat mi. Pellentesque non neque sed eros faucibus lacinia sit amet vitae ex. Sed pharetra feugiat nibh sed venenatis. Mauris nec odio quis mauris commodo hendrerit. Nulla feugiat augue sed massa mattis pharetra. Sed vitae nunc ut urna rhoncus commodo. Curabitur pellentesque feugiat leo ut molestie. Morbi elit mauris, cursus nec dolor eget, malesuada hendrerit velit.&lt;/p&gt;
+&lt;p&gt;Duis at metus fermentum massa ultricies sagittis. Duis pharetra massa sit amet magna maximus, et pulvinar odio blandit. Donec pharetra mauris in orci elementum pharetra. Aenean a tellus eros. Ut dictum enim leo, ut tincidunt tellus egestas quis. Aenean auctor nunc turpis, ut posuere nulla rutrum sit amet. Curabitur quis purus ac eros rhoncus eleifend. In tincidunt vitae odio sit amet sodales. Nullam eu enim non purus hendrerit eleifend. Sed accumsan turpis sit amet ipsum rutrum, quis fermentum tortor interdum. Vestibulum enim neque, venenatis at diam vitae, ultricies commodo erat. Etiam at diam vestibulum, imperdiet diam vel, dignissim nulla. Phasellus tortor libero, tincidunt ut sapien ut, finibus tempor eros. Etiam vel ullamcorper augue.&lt;/p&gt;
+&lt;p&gt;Donec mattis dui sed nibh faucibus, ut efficitur nisl bibendum. Mauris sed porta nulla. Nullam feugiat quam ac tempus euismod. Ut molestie justo nunc, ut rutrum velit facilisis a. In convallis sit amet ligula vitae vehicula. Proin vulputate, ex ut cursus lacinia, quam libero tempor turpis, eget ultrices nisl dui non orci. Ut semper elementum neque nec ornare. Donec blandit sit amet diam et viverra. Fusce pharetra neque nec lorem bibendum, at accumsan quam auctor. Mauris mattis commodo purus. Proin malesuada eros quis nisi euismod, quis dignissim odio fringilla. Nulla congue sit amet metus imperdiet porttitor. Vestibulum vehicula purus sem, non ultricies mi vestibulum eget. Vestibulum rutrum interdum purus faucibus placerat. Etiam pellentesque arcu non vehicula aliquet.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>About</title>
-        <link>https://joshuak.im/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://joshuak.im/about/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;p&gt;Hey! I&amp;rsquo;m Joshua, an incoming junior at Troy High School. As of recent, I&amp;rsquo;ve been finding myself in cybersecurity, math, music, and my school&amp;rsquo;s NJROTC unit. Here&amp;rsquo;s a quick breakdown:&lt;/p&gt;
 &lt;h1 id=&#34;cybersecurity&#34;&gt;Cybersecurity
 &lt;/h1&gt;&lt;p&gt;While I&amp;rsquo;ve always found myself around computers since I was young, it wasn&amp;rsquo;t until I entered 8th grade that I was introduced to the topic through &lt;a class=&#34;link&#34; href=&#34;https://www.uscyberpatriot.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
