@@ -1,11 +1,21 @@
 +++
-date = '2025-06-10T00:00:00-07:00'
-draft = true
+date = '2025-06-19T00:52:00-07:00'
+draft = false
 title = 'Magdalene Ho and Competition in Music'
 image = "cover.jpg"
 description = "Comments on the 2025 Cliburn Competition"
 +++
 
-If you've been following the Seventeenth Van Cliburn International Piano Competition, you've almost certainly heard the public outrage regarding Magdalene Ho's elimination after the preliminary round. Being possibly the most liked player from the preliminary round, fans on every social media platform imaginable expressed their shock and disappointment after she was cut. Ben Laude from Tonebase even made a video sharing his "concern" on the matter, garnering tens of thousands of views in a few days. And it's not without reason. You can watch her performance [here](https://www.youtube.com/watch?v=v9_mrVakYbM) and form your own opinions, but you can see why she stood out to the audience. Not only does she have clear musical ideas, but she's able to express them with such persuasiveness through a plethora of different colors and tones.
+I recently had the chance to see the final round of the XVII Van Cliburn International Piano Competition. It was an incredible experience being able to listen to so much skill and music each and every day.
 
-The concept of competition in music is a broken idea to begin with. Music
+If you've been following the competition, you've likely heard something about Magdalene Ho, a 21-year-old competitor born in California and raised in Malaysia. She caught the public's eye with her preliminary round recital, where she gave a particularly stunning rendition of Franck's Prélude, Choral et Fugue. (Side note: 6 players have performed this piece before Magdalene in the Cliburn, yet none of them have advanced.) Between forums like Reddit and discussions among notable critics in the industry, the support for her was immense, with some people vowing to root for her till the end. But as the quarterfinalists were announced on May 23, people were shocked to find her name absent.
+
+Having been pretty involved in music since youth, I've seen a lot of competitions from local to international levels. And regardless of the scope and level of competition, it seems to be too often that I see results that really make me think, "Hm?". Sometimes I see the results posted and I don't see the name of someone I expected to be up there, or sometimes I see someone up there that I really hadn't expected to place. But at the local level (and especially with particularly egregious injustices), it's easy to chalk it up to some questionable judges. There are simply too many competitions that I go to that have only one judge that actually plays the instrument that's being judged, sometimes with a questionable amount of credibility.
+
+But competitions like the Cliburn? They have large juries with extremely distinguished pianists. Every judge has a distinguished history in piano, with one member even winning the Cliburn himself back in 1997. The jury surely made very well-thought-out and well-informed decisions.
+
+At its core, music is an art – a form of expression. While musicians are obliged to stay within the lines of what the composer left for them, there's so much individuality and freedom for musicians to express inside that box. At smaller-scale competitions, it's easier to say someone is *wrong* for something, purely because competitors often have varying levels of foundational technique and understanding. But at these international competitions, where everyone has good technique and a solid foundation, it's really just up to how convincingly musicians can portray their interpretation. And that's always subjective. Just look at Ivo Pogorelich from the 1980 Chopin Competition, where Argerich removed herself from the jury after he was cut in the third round. Pogorelich got the very highest score from half the jury and the very lowest score from the other half. It's just too easy for a jury member to go, "I really agree with how this person played this", or to go "I think this interpretation is completely distasteful". The jury members are humans with their own opinions after all.
+
+It's easy to argue that there is an inherent flaw to music competitions. But they should keep going. In a world like the one of classical music, getting your name out there is so difficult. Think of the number of people you know that play an instrument seriously, and compare that to the number of classical musicians you can name. Making a living in this life is hard. And winning a major competition can (key word: can) be the golden ticket to someone's music career. Pollini, Argerich, and Zimerman all won the Chopin Competition early on in their careers.
+
+The important part is a young, aspiring musician should never think of competitions as the only ticket. Because ultimately, you know who the jury is? Us. The public. Wooing the hearts of the public will always be the cornerstone of an effective career, not wooing the hearts of a competition jury.

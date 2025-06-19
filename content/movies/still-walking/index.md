@@ -1,5 +1,5 @@
 +++
-date = '2025-06-09T00:00:00-07:00'
+date = '2025-06-10T01:41:25-07:00'
 draft = false
 title = 'Still Walking (2008)'
 directors = ['Kore-eda']
