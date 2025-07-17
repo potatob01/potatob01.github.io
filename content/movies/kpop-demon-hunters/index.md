@@ -3,7 +3,7 @@ date = '2025-07-14T21:40:12-07:00'
 draft = false
 title = 'KPop Demon Hunters'
 image = "cover.jpg"
-description = "8/10 - A real plot, real characters, and gorgeous animation."
+description = "7.5/10 - While light, a real plot, real characters, and gorgeous animation."
 +++
 
 Before I get into the actual movie, can we talk about that name? Like, I get that it's probably hard to think of a title for a movie like this. But KPop Demon Hunters could not have been the best choice. It just makes the movie feel so much more childish than it should be.
